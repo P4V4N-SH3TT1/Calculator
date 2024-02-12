@@ -10,7 +10,7 @@ public class calculator
         float num1 = 67;//scanner.nextFloat();
 
         System.out.println("Enter second number: ");
-        float num2 = /89/scanner.nextFloat();
+        float num2 = 89;//scanner.nextFloat();
 
         System.out.println("1. Add\n2. Subtract\n3. Multiply\n4. Divide");
         System.out.println("Select Operation: ");
