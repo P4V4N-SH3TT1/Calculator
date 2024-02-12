@@ -7,14 +7,14 @@ public class calculator
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Enter first number: ");
-        float num1 = scanner.nextFloat();
+        float num1 = 67;//scanner.nextFloat();
 
         System.out.println("Enter second number: ");
-        float num2 = scanner.nextFloat();
+        float num2 = /89/scanner.nextFloat();
 
         System.out.println("1. Add\n2. Subtract\n3. Multiply\n4. Divide");
         System.out.println("Select Operation: ");
-        int choice = scanner.nextInt();
+        int choice = 1;//scanner.nextInt();
 
         float result = 0;
 
